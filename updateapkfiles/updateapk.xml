@@ -4,7 +4,7 @@
     <ApkVersionCode>2</ApkVersionCode>
     <ApkVersionName>1.0.1</ApkVersionName>
     <ApkUpdateFlag>NO</ApkUpdateFlag>
-    <ApkUpdateUrl>https://github.com/mahpchina/jingrui/blob/master/updateapkfiles/mall.apk</ApkUpdateUrl>  
+    <ApkUpdateUrl>https://github.com/mahpchina/jingrui/raw/master/updateapkfiles/mall.apk</ApkUpdateUrl>  
     <ApkUpdateDialogTitle>发现新版本1.0.1</ApkUpdateDialogTitle>  
     <ApkUpdateDialogContent>发现新版本，是否更新</ApkUpdateDialogContent>  
     <ApkUpdateDialogDescription>新增功能;优化了用户体验</ApkUpdateDialogDescription>  
